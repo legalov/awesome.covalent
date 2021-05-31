@@ -15,8 +15,6 @@ If you have any questions or offers - you can PM me in discord
 - [Official links](#official-links)
 - [Regional communities (non-official)](#regional-communities)
 - [Another additional links](#another-additional-links)
-- [Contribute](#contribute)
-
 
 ## Official links
 
@@ -89,10 +87,6 @@ If you have any questions or offers - you can PM me in discord
 - [Covalent etherscan](https://etherscan.io/token/0xd53dc349df9c52bc5eb3cf07bf90dfaee768d0e5)
 - [Covalent Alchemist Laboratory](https://www.notion.so/The-Covalent-Alchemist-Laboratory-d8f9d300e9ba4982840b84342090cfed)
 
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ------
 ###### This is not official covalent hub, rskl (also known as legalov) not a part of covalent team
