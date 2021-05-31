@@ -7,6 +7,9 @@
   <br>
 </p>
 
+Unofficial link hub of Covalent (CQT), created by rskl#1210
+If you have any questions or offers - you can PM me in discord
+
 ## List of Covalent resources:
 - [Official links](#Official-links)
 - [Regional communities (non-official)](#Regional-communities)
