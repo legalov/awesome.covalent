@@ -11,10 +11,10 @@ Unofficial link hub of Covalent (CQT), created by rskl#1210
 If you have any questions or offers - you can PM me in discord
 
 ## List of Covalent resources:
-- [Official links](#Official-links)
-- [Regional communities (non-official)](#Regional-communities)
-- [Another additional links](#Another-additional-links)
-- [Contribute](#Contribute)
+- [Official links](#official-links)
+- [Regional communities (non-official)](#regional-communities)
+- [Another additional links](#another-additional-links)
+- [Contribute](#contribute)
 
 
 ## Official links
