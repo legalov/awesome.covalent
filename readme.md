@@ -8,8 +8,8 @@
 </p>
 
 ## List of Covalent resources:
-- [Section](#Official-links)
-- [Another Section](#another-section)
+- [Official links](#Official-links)
+- [Regional communities (non-official)](#Regional-communities-(non-official))
 
 
 ## Official links
