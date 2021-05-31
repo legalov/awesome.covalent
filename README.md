@@ -7,7 +7,8 @@
   <br>
 </p>
 
-##### Unofficial link hub of Covalent (CQT) ##### If you have any questions or offers - you can PM me in discord (rskl#1210) or tg (rskl19)
+##### Unofficial link hub of Covalent (CQT) 
+##### If you have any questions or offers - you can PM me in discord (rskl#1210) or tg (rskl19)
 
 ## List of Covalent resources:
 - [Official links](#official-links)
@@ -87,6 +88,4 @@
 
 
 ------
-###### This is not official covalent hub
-###### created by rskl#1210 (also known as legalov) 
-###### im not a part of covalent team
+###### This is not official covalent hub / created by rskl#1210 (also known as legalov) / im not a part of covalent team
