@@ -1,6 +1,11 @@
 # Awesome Covalent [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
+<p align="center">
+  <br>
+  <img width="250" src="https://assets.coingecko.com/coins/images/14168/large/otsLfyFD_400x400.jpg?" >
+  <br>
+  <br>
+</p>
 
 ## List of Covalent resources:
 - [Section](#Official-links)
