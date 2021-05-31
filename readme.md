@@ -9,7 +9,7 @@
 
 ## List of Covalent resources:
 - [Official links](#Official-links)
-- [Regional communities (non-official)](#Regional-communities-(non-official))
+- [Regional communities (non-official)](#Regional-communities)
 
 
 ## Official links
@@ -24,7 +24,9 @@
 - [Covalent Telegram announcements channel](https://t.me/covalenthqann)
 - [Covalent Github](https://t.me/covalenthqann)
 
-## Regional communities (non-official)
+
+## Regional communities
+> (non-official)
 
 ### Regional Covalent Telegram Channels
 
