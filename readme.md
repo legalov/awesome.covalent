@@ -10,6 +10,8 @@
 ## List of Covalent resources:
 - [Official links](#Official-links)
 - [Regional communities (non-official)](#Regional-communities)
+- [Another additional links](#Another-additional-links)
+- [Contribute](#Contribute)
 
 
 ## Official links
@@ -78,8 +80,15 @@
 - [Czech Twitter](https://twitter.com/covalentczechia)
 
 
+## Another additional links
+
+- [Covalent etherscan](https://etherscan.io/token/0xd53dc349df9c52bc5eb3cf07bf90dfaee768d0e5)
+- [Covalent Alchemist Laboratory](https://www.notion.so/The-Covalent-Alchemist-Laboratory-d8f9d300e9ba4982840b84342090cfed)
 
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+------
+This is not official covalent hub, rskl (also known as legalov) not a part of covalent team
