@@ -28,7 +28,7 @@
 
 
 ## Regional communities
-> (non-official)
+(non-official)
 
 ### Regional Covalent Telegram Channels
 
@@ -91,4 +91,4 @@
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ------
-This is not official covalent hub, rskl (also known as legalov) not a part of covalent team
+######This is not official covalent hub, rskl (also known as legalov) not a part of covalent team
